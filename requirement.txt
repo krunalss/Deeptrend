@@ -6,3 +6,5 @@ scikit-learn==1.5.2
 tensorflow==2.14.0
 matplotlib==3.8.0
 keras-tuner==1.4.7
+openpyxl
+statsmodels
